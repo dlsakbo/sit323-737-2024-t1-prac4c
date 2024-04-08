@@ -1,0 +1,7 @@
+{"level":"error","message":"Invalid input parameters for addition","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for division","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for exponentiation","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameter for square root","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for division","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for division operation","service":"calculator-microservice"}
